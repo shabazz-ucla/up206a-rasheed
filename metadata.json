@@ -1,0 +1,20 @@
+{
+    "release": {
+        "id": "acs2019_1yr",
+        "years": "2019",
+        "name": "ACS 2019 1-year"
+    },
+    "tables": {
+        "B01003": {
+            "title": "Total Population",
+            "universe": "Total Population",
+            "denominator_column_id": null,
+            "columns": {
+                "B01003001": {
+                    "name": "Total",
+                    "indent": 0
+                }
+            }
+        }
+    }
+}
